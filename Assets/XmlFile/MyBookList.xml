@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookList>
+  <Book>
+    <Title>Titulo Libro 1</Title>
+    <Author>Autor Libro 1</Author>
+  </Book>
+  <Book>
+    <Title>Titulo Libro 2</Title>
+    <Author>Autor Libro 2</Author>
+  </Book>
+  <Book>
+    <Title>Titulo Libro 3</Title>
+    <Author>Autor Libro 3</Author>
+  </Book>
+  <Book>
+    <Title>Titulo Libro 4</Title>
+    <Author>Autor Libro 4</Author>
+  </Book>
+</BookList>
+
